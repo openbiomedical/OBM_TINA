@@ -1,0 +1,2 @@
+# OBM_TINA
+TINA is a 3D printed mechanical hand moved by a system of rods thanks to the wrist movements. It is developed to mix mechanical functionality with a beautiful design, accessible to everyone in need, everywhere. Designed by the Polish jewelry designer Justyna Stasiewicz, it is a perfect example of the international collaborations of the OBM community and of the flexibility of its volunteers.
